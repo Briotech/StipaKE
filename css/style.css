@@ -3692,7 +3692,7 @@ padding-top: 20px;
 
 /* line 58, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
 .make_donation_area .donation_form .input_field .input-group {
-  width: 100%;
+  width: 320%;
   border: 1px solid #3CC78F;
   border-radius: 7px;
   padding: 5px 10px;
