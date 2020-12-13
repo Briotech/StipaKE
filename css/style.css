@@ -3699,6 +3699,7 @@ padding-top: 20px;
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  text-align: center;
 }
 
 /* line 64, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
